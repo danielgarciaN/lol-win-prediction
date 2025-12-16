@@ -1,3 +1,4 @@
+
 # League of Legends – Win Prediction Model
 
 ## 📌 Project Overview
@@ -111,18 +112,6 @@ These cases reflect the intrinsic uncertainty of competitive matches.
 
 ---
 
-## 📁 Repository Structure
-
-├── data/
-│ ├── matches.csv
-│ ├── participants.csv
-│ ├── ...
-│ └── lol_final.csv
-├── LoL_WinPrediction.ipynb
-└── README.md
-
----
-
 ## ✅ Key Takeaways
 
 - The model avoids trivial predictors and focuses on strategic factors.
@@ -135,3 +124,4 @@ These cases reflect the intrinsic uncertainty of competitive matches.
 ## 👤 Author
 Daniel García Nilo
 Project developed for academic purposes in Machine Learning / Data Science.
+
